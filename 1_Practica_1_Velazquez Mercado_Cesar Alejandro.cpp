@@ -1,3 +1,4 @@
+//Alejandro Velazquez
 #include <stdio.h>
 int main()
 {
@@ -9,6 +10,7 @@ int main()
     for (int i=1; i<=limite; i++)
     {
         resultado +=i;
+
     }
     printf("La suma de los primeros %d números es: %d\n", limite, resultado);
     return 0;
